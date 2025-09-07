@@ -1,0 +1,15 @@
+langchain
+ipykernel
+langchain-community
+python-dotenv
+pypdf
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
